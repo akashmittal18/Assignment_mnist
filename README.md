@@ -30,3 +30,8 @@ Screenshot of the post request done locally using curl
 5. Client Response: The client (Postman or cURL) receives the response from the Flask web application. It can then process the response, display the predicted digit, or perform any further actions required.
 
 This architecture allows for easy deployment and scaling of the inference service. The Docker container encapsulates the Flask application and all its dependencies, making it portable and easy to deploy in various environments. The Flask application provides a simple REST API for performing inference, making it accessible to a wide range of clients.
+
+## Architecture Diagram
+
+<img width="693" alt="Screenshot 2024-04-29 at 9 32 31 PM" src="https://github.com/akashmittal18/Assignment_mnist/assets/47140557/38ffe8c0-e3c8-413f-a98d-d5a4ebe9b9dd">
+
