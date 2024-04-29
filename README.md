@@ -1,5 +1,6 @@
-## Assignment_mnist
+## Assignment on MNIST
 
+This repo contains code files for MNIST Problem along with its docker file.
 
 
 1. mnist_train.py- Training Script for MNIST model
