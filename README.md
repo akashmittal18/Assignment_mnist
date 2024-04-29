@@ -13,3 +13,5 @@ This repo contains code files for MNIST Problem along with its docker file.
 ```cmd
 !curl -X POST -F "image=@"C:\Users\934624\Downloads\9.png"" http://localhost:5000/predict
 ```
+Screenshot of the post request done locally using curl
+<img width="1130" alt="Screenshot 2024-04-29 at 5 38 43 PM" src="https://github.com/akashmittal18/Assignment_mnist/assets/47140557/84b6107d-4407-42d2-9f79-d548a5aeb35f">
